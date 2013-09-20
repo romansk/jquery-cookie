@@ -4,13 +4,11 @@
   "title":  "jQuery Cookie",
   "description": "A simple, lightweight jQuery plugin for reading, writing and deleting cookies.",
   "author": {
-    "name": "Klaus Hartl",
-    "url": "https://github.com/carhartl"
+    "url": "https://github.com/romansk"
   },
   "maintainers": [
     {
-      "name": "Klaus Hartl",
-      "url": "https://github.com/carhartl"
+      "url": "https://github.com/romansk"
     },
     {
       "name": "Fagner Martins",
@@ -20,13 +18,13 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://raw.github.com/carhartl/jquery-cookie/master/MIT-LICENSE.txt"
+      "url": "https://raw.github.com/carhart/romansk/jquery-cookie/master/MIT-LICENSE.txt"
     }
   ],
   "dependencies": {
     "jquery": ">=1.0"
   },
-  "bugs": "https://github.com/carhartl/jquery-cookie/issues",
-  "homepage": "https://github.com/carhartl/jquery-cookie",
-  "docs": "https://github.com/carhartl/jquery-cookie#readme"
+  "bugs": "https://github.com/romansk/jquery-cookie/issues",
+  "homepage": "https://github.com/romansk/jquery-cookie",
+  "docs": "https://github.com/romansk/jquery-cookie#readme"
 }
